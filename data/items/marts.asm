@@ -206,8 +206,9 @@ MartEcruteak:
 	db -1 ; end
 
 MartMahogany1:
-	db 5 ; # items
+	db 6 ; # items
 	db TM_FRUSTRATION
+	db TM_ROAR
 	db TINYMUSHROOM
 	db SLOWPOKETAIL
 	db POKE_BALL
@@ -219,9 +220,9 @@ MartMahogany2:
 	db RAGECANDYBAR
 	db METAL_COAT
 	db UP_GRADE
+	db BRICK_PIECE
 	db TM_DIG
 	db TM_ROLLOUT
-	db TM_ROAR
 	db TM_SWIFT
 	db TM_NIGHTMARE
 	db TM_DEFENSE_CURL
@@ -395,7 +396,7 @@ MartCeladon5F2:
 	db -1 ; end
 
 MartCeladon5F2_2:
-	db 8 ; # items
+	db 9 ; # items
 	db TM_HIDDEN_POWER
 	db TM_SWAGGER
 	db TM_SNORE

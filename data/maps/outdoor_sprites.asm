@@ -123,6 +123,7 @@ FuchsiaGroupSprites:
 	; 7 of max 9 walking sprites
 	db SPRITE_POKE_BALL
 	db SPRITE_FRUIT_TREE
+	db SPRITE_BIG_SNORLAX
 	db 0 ; end
 
 IndigoGroupSprites:
@@ -282,7 +283,7 @@ DungeonsGroupSprites:
 	db SPRITE_TEACHER
 	db SPRITE_YOUNGSTER
 	db SPRITE_POKEFAN_M
-	db SPRITE_ROCKER
+	db SPRITE_COOLTRAINER_M
 	db SPRITE_FISHER
 	db SPRITE_SCIENTIST
 	db SPRITE_BUG_CATCHER
